@@ -2,3 +2,5 @@ Short-term Goals
 - I want to consistently create a weekly virtual portfolio
 - A very simple project is acceptable.
 - This action plan is planned to boost my confidence in robotics programming.
+- Upload a tutorial video on Youtube
+- Create a written article on Medium
